@@ -1,0 +1,3232 @@
+[
+    {
+      "Dist": "A",
+      "#": 1,
+      "parcela": "A1",
+      "Nom": "José Antonio Jaumà",
+      "Mujades": 9,
+      "Mundines": 6,
+      "propietats": 2,
+      "notes": "cognom ?"
+    },
+    {
+      "Dist": "A",
+      "#": 2,
+      "parcela": "A2",
+      "Nom": "Juan Selva y Arias",
+      "Mujades": 1,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 3,
+      "parcela": "A3",
+      "Nom": "José Antonio Jaumà",
+      "Mujades": 5,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": "cognom ?"
+    },
+    {
+      "Dist": "A",
+      "#": 4,
+      "parcela": "A4",
+      "Nom": "Josefa Brosa",
+      "Mujades": 2,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 5,
+      "parcela": "A5",
+      "Nom": "Gabriel Prats",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 6,
+      "parcela": "A6",
+      "Nom": "Ramon de Bacardí",
+      "Mujades": 4,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 7,
+      "parcela": "A7",
+      "Nom": "Jayme Vallhonesta",
+      "Mujades": 6,
+      "Mundines": 4,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 8,
+      "parcela": "A8",
+      "Nom": "José Saladrigas",
+      "Mujades": 0,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 9,
+      "parcela": "A9",
+      "Nom": "José Mariné",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 10,
+      "parcela": "A10",
+      "Nom": "Sebastián Magrans",
+      "Mujades": 2,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 11,
+      "parcela": "A11",
+      "Nom": "Ysidro Bordas",
+      "Mujades": 1,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 12,
+      "parcela": "A12",
+      "Nom": "Teresa Colominas",
+      "Mujades": 1,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 13,
+      "parcela": "A13",
+      "Nom": "Jacinto Magrans",
+      "Mujades": 3,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 14,
+      "parcela": "A14",
+      "Nom": "Valentin Beltran",
+      "Mujades": 1,
+      "Mundines": 11,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 15,
+      "parcela": "A15",
+      "Nom": "Juan Saladrigas",
+      "Mujades": 22,
+      "Mundines": 7,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 16,
+      "parcela": "A16",
+      "Nom": "Juan Casas y Grau",
+      "Mujades": 1,
+      "Mundines": 9,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 17,
+      "parcela": "A17",
+      "Nom": "José camprodón",
+      "Mujades": 11,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 18,
+      "parcela": "A18",
+      "Nom": "Francisco Magran y Borras",
+      "Mujades": 1,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 19,
+      "parcela": "A19",
+      "Nom": "Ysidro Font",
+      "Mujades": 1,
+      "Mundines": 19,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 20,
+      "parcela": "A20",
+      "Nom": "Herederos de Salobordas",
+      "Mujades": 16,
+      "Mundines": 13,
+      "propietats": 2,
+      "notes": "Hers ?"
+    },
+    {
+      "Dist": "A",
+      "#": 21,
+      "parcela": "A21",
+      "Nom": "Jayme Vallhonesta",
+      "Mujades": 6,
+      "Mundines": 0,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 22,
+      "parcela": "A22",
+      "Nom": "Marqués de Alfarrás",
+      "Mujades": 4,
+      "Mundines": 13,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 23,
+      "parcela": "A23",
+      "Nom": "Lorenzo Puig",
+      "Mujades": 3,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 24,
+      "parcela": "A24",
+      "Nom": "Jayme Vallhonesta",
+      "Mujades": 5,
+      "Mundines": 6,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 25,
+      "parcela": "A25",
+      "Nom": "Herederos de Salobordas",
+      "Mujades": 2,
+      "Mundines": 1,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 26,
+      "parcela": "A26",
+      "Nom": "Miguel Madurell",
+      "Mujades": 3,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": "26a",
+      "parcela": "A26a",
+      "Nom": "Juan Grané",
+      "Mujades": 1,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 27,
+      "parcela": "A27",
+      "Nom": "Magin Frullas",
+      "Mujades": 1,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 28,
+      "parcela": "A28",
+      "Nom": "Francisco Lloberas",
+      "Mujades": 10,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": "50?"
+    },
+    {
+      "Dist": "A",
+      "#": 29,
+      "parcela": "A29",
+      "Nom": "Maria de Oriola y Cortada",
+      "Mujades": 7,
+      "Mundines": 4,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 30,
+      "parcela": "A30",
+      "Nom": "Valentin Beltran",
+      "Mujades": 1,
+      "Mundines": 8,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 31,
+      "parcela": "A31",
+      "Nom": "Maria de Oriola y Cortada",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 32,
+      "parcela": "A32",
+      "Nom": "Benito Pastó",
+      "Mujades": 22,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 33,
+      "parcela": "A33",
+      "Nom": "Avi Benet i Valls",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": "Avi?"
+    },
+    {
+      "Dist": "A",
+      "#": 34,
+      "parcela": "A34",
+      "Nom": "Josefa Comas y Ametllat",
+      "Mujades": 13,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 35,
+      "parcela": "A35",
+      "Nom": "Maria de Oriola y Cortada",
+      "Mujades": 0,
+      "Mundines": 12,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "A",
+      "#": 36,
+      "parcela": "A36",
+      "Nom": "Juan Carsi",
+      "Mujades": 10,
+      "Mundines": 4,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 1,
+      "parcela": "B1",
+      "Nom": "Jayme March",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 2,
+      "parcela": "B2",
+      "Nom": "Francisco Yglesias",
+      "Mujades": 2,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 3,
+      "parcela": "B3",
+      "Nom": "Juan Carsi",
+      "Mujades": 2,
+      "Mundines": 3,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 4,
+      "parcela": "B4",
+      "Nom": "José Sanmarti",
+      "Mujades": 2,
+      "Mundines": 3,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 5,
+      "parcela": "B5",
+      "Nom": "Valentin Beltran",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 6,
+      "parcela": "B6",
+      "Nom": "José Sanmarti",
+      "Mujades": 0,
+      "Mundines": 14,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 7,
+      "parcela": "B7",
+      "Nom": "Francisco Giol",
+      "Mujades": 1,
+      "Mundines": 9,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 8,
+      "parcela": "B8",
+      "Nom": "Juan Gallami",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 9,
+      "parcela": "B9",
+      "Nom": "José Borrás y Carreras",
+      "Mujades": 2,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": "y carreras?"
+    },
+    {
+      "Dist": "B",
+      "#": 10,
+      "parcela": "B10",
+      "Nom": "José Forné",
+      "Mujades": 1,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 11,
+      "parcela": "B11",
+      "Nom": "José Sanmarti",
+      "Mujades": 5,
+      "Mundines": 4,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 12,
+      "parcela": "B12",
+      "Nom": "José Mariné y Baliarda",
+      "Mujades": 1,
+      "Mundines": 6,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 13,
+      "parcela": "B13",
+      "Nom": "",
+      "Mujades": "",
+      "Mundines": "",
+      "propietats": 0,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 14,
+      "parcela": "B14",
+      "Nom": "Manuel Magin",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 15,
+      "parcela": "B15",
+      "Nom": "Matias Vaquer",
+      "Mujades": 0,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 16,
+      "parcela": "B16",
+      "Nom": "Viuda de Juan Campmany",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 17,
+      "parcela": "B17",
+      "Nom": "Mariano Oriola y Cortada",
+      "Mujades": 33,
+      "Mundines": 7,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 18,
+      "parcela": "B18",
+      "Nom": "José Ravellat",
+      "Mujades": 0,
+      "Mundines": 11,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 19,
+      "parcela": "B19",
+      "Nom": "Mariano Oriola y Cortada",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 20,
+      "parcela": "B20",
+      "Nom": "Josefa Comas y Ametllat",
+      "Mujades": 5,
+      "Mundines": 4,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 21,
+      "parcela": "B21",
+      "Nom": "Felix Baulenas",
+      "Mujades": 9,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 22,
+      "parcela": "B22",
+      "Nom": "José Fravit",
+      "Mujades": 12,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 23,
+      "parcela": "B23",
+      "Nom": "Gertrudis Mari",
+      "Mujades": 2,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 24,
+      "parcela": "B24",
+      "Nom": "Jeronimo Deo",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": "Cognom ?"
+    },
+    {
+      "Dist": "B",
+      "#": 25,
+      "parcela": "B25",
+      "Nom": "Herederos de can Sartes",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 26,
+      "parcela": "B26",
+      "Nom": "Herederos de Galobardas",
+      "Mujades": 7,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 27,
+      "parcela": "B27",
+      "Nom": "Antonio Yglesias",
+      "Mujades": 3,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 28,
+      "parcela": "B28",
+      "Nom": "Viuda de Pablo Ribó",
+      "Mujades": 1,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 29,
+      "parcela": "B29",
+      "Nom": "Viuda de Antonio Sala de Ribó",
+      "Mujades": 0,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 30,
+      "parcela": "B30",
+      "Nom": "Viuda de Gaspar Campmany",
+      "Mujades": 0,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 31,
+      "parcela": "B31",
+      "Nom": "Cayetano Roquer",
+      "Mujades": 27,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 32,
+      "parcela": "B32",
+      "Nom": "Francisco Vidal",
+      "Mujades": 2,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 33,
+      "parcela": "B33",
+      "Nom": "Andrés Bonet",
+      "Mujades": 2,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 34,
+      "parcela": "B34",
+      "Nom": "Francisco Borrás",
+      "Mujades": 2,
+      "Mundines": 9,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 35,
+      "parcela": "B35",
+      "Nom": "Francisco de Asís Magrana y Simó",
+      "Mujades": 1,
+      "Mundines": 9,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 36,
+      "parcela": "B36",
+      "Nom": "José Camprodon",
+      "Mujades": 3,
+      "Mundines": 8,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 37,
+      "parcela": "B37",
+      "Nom": "Jayme Simó",
+      "Mujades": 1,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 38,
+      "parcela": "B38",
+      "Nom": "Francisco de Asís Magrana y Simó",
+      "Mujades": 1,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 39,
+      "parcela": "B39",
+      "Nom": "Jayme Gausachs y Simó",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 40,
+      "parcela": "B40",
+      "Nom": "José Waller",
+      "Mujades": 3,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 41,
+      "parcela": "B41",
+      "Nom": "Pedro Gausachs",
+      "Mujades": 0,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 42,
+      "parcela": "B42",
+      "Nom": "Viuda de José Guardiola",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 43,
+      "parcela": "B43",
+      "Nom": "Ysidro Farau",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 44,
+      "parcela": "B44",
+      "Nom": "Juan Borrás",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 45,
+      "parcela": "B45",
+      "Nom": "Raphael Sabadell",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 46,
+      "parcela": "B46",
+      "Nom": "Pedro Brasi",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 47,
+      "parcela": "B47",
+      "Nom": "Jayme Duran",
+      "Mujades": 7,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 48,
+      "parcela": "B48",
+      "Nom": "Juan Torelló y Caura",
+      "Mujades": 0,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 49,
+      "parcela": "B49",
+      "Nom": "Raphael Torelló",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 50,
+      "parcela": "B50",
+      "Nom": "Joaquin Martí Codula",
+      "Mujades": 63,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 51,
+      "parcela": "B51",
+      "Nom": "Buenaventura",
+      "Mujades": 2,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 52,
+      "parcela": "B52",
+      "Nom": "José Borrás y Carreras",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 53,
+      "parcela": "B53",
+      "Nom": "Salvador Ortal",
+      "Mujades": 4,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 54,
+      "parcela": "B54",
+      "Nom": "Jayme Duran",
+      "Mujades": 1,
+      "Mundines": 12,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 55,
+      "parcela": "B55",
+      "Nom": "Lorenzo Puig",
+      "Mujades": 0,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 56,
+      "parcela": "B56",
+      "Nom": "Francisco Gaig",
+      "Mujades": 0,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 57,
+      "parcela": "B57",
+      "Nom": "José Morruo",
+      "Mujades": 4,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 58,
+      "parcela": "B58",
+      "Nom": "Viuda de Juan Xinché",
+      "Mujades": 10,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 59,
+      "parcela": "B59",
+      "Nom": "Jayme Brassó",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 60,
+      "parcela": "B60",
+      "Nom": "José Duran y Marí",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 61,
+      "parcela": "B61",
+      "Nom": "Gaudencio Durán",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 62,
+      "parcela": "B62",
+      "Nom": "Juan Durán",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 63,
+      "parcela": "B63",
+      "Nom": "Antonio Esteva",
+      "Mujades": 0,
+      "Mundines": 3,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 64,
+      "parcela": "B64",
+      "Nom": "Miguel Ribó",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 65,
+      "parcela": "B65",
+      "Nom": "Juan Raurell",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 66,
+      "parcela": "B66",
+      "Nom": "Marqués de Castellbell",
+      "Mujades": 9,
+      "Mundines": 11,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 67,
+      "parcela": "B67",
+      "Nom": "Marquesa de Valle de Ribas",
+      "Mujades": 8,
+      "Mundines": 13,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 68,
+      "parcela": "B68",
+      "Nom": "Agustín Sabadell",
+      "Mujades": 8,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 69,
+      "parcela": "B69",
+      "Nom": "José Camprodon",
+      "Mujades": 0,
+      "Mundines": 13,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 70,
+      "parcela": "B70",
+      "Nom": "Martínez Davilillo",
+      "Mujades": 0,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 71,
+      "parcela": "B71",
+      "Nom": "Rafael Valldejuli",
+      "Mujades": 2,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 72,
+      "parcela": "B72",
+      "Nom": "Ramon Nadal",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 73,
+      "parcela": "B73",
+      "Nom": "Jayme Costa",
+      "Mujades": 0,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 74,
+      "parcela": "B74",
+      "Nom": "Bernardo Folch",
+      "Mujades": 0,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 75,
+      "parcela": "B75",
+      "Nom": "Marquesa de Valle de Ribas",
+      "Mujades": 1,
+      "Mundines": 4,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 76,
+      "parcela": "B76",
+      "Nom": "José Elias",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 77,
+      "parcela": "B77",
+      "Nom": "Jayme Samsó",
+      "Mujades": 0,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 78,
+      "parcela": "B78",
+      "Nom": "Viuda de Juan de Marí",
+      "Mujades": 4,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 79,
+      "parcela": "B79",
+      "Nom": "Antonio Casals",
+      "Mujades": 1,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 80,
+      "parcela": "B80",
+      "Nom": "José Mariné y Baliarda",
+      "Mujades": 1,
+      "Mundines": 3,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 81,
+      "parcela": "B81",
+      "Nom": "Martí Sitxá",
+      "Mujades": 1,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 82,
+      "parcela": "B82",
+      "Nom": "Pedro Sabadell Fayo",
+      "Mujades": 2,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 83,
+      "parcela": "B83",
+      "Nom": "Marqués de Castellbell",
+      "Mujades": "",
+      "Mundines": 13,
+      "propietats": 3,
+      "notes": "Muajdes buit, no pot ser 0"
+    },
+    {
+      "Dist": "B",
+      "#": 84,
+      "parcela": "B84",
+      "Nom": "Francisco Bosch",
+      "Mujades": 8,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 85,
+      "parcela": "B85",
+      "Nom": "José Espiell",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 86,
+      "parcela": "B86",
+      "Nom": "José Mariné y Baliarda",
+      "Mujades": 5,
+      "Mundines": 0,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 87,
+      "parcela": "B87",
+      "Nom": "José Llaviol",
+      "Mujades": 1,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 88,
+      "parcela": "B88",
+      "Nom": "José Espiell",
+      "Mujades": 6,
+      "Mundines": 5,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 89,
+      "parcela": "B89",
+      "Nom": "Marqués de Castellbell",
+      "Mujades": 5,
+      "Mundines": 2,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 90,
+      "parcela": "B90",
+      "Nom": "Salvador Berenguer",
+      "Mujades": 2,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 91,
+      "parcela": "B91",
+      "Nom": "Andrés Pla",
+      "Mujades": 2,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 92,
+      "parcela": "B92",
+      "Nom": "Andres Pla y Salvador Berenguer",
+      "Mujades": 1,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 93,
+      "parcela": "B93",
+      "Nom": "Pablo Grau",
+      "Mujades": 4,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 94,
+      "parcela": "B94",
+      "Nom": "Juan Caballé",
+      "Mujades": 1,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 95,
+      "parcela": "B95",
+      "Nom": "Mateo Pla",
+      "Mujades": 2,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 96,
+      "parcela": "B96",
+      "Nom": "José Rifé",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 97,
+      "parcela": "B97",
+      "Nom": "Cipriano Gaset",
+      "Mujades": 1,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 98,
+      "parcela": "B98",
+      "Nom": "Viuda de Juan Mari",
+      "Mujades": 4,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": "98a",
+      "parcela": "B98a",
+      "Nom": "Juan Calafell",
+      "Mujades": 2,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 99,
+      "parcela": "B99",
+      "Nom": "Juan Durán",
+      "Mujades": 1,
+      "Mundines": 12,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 100,
+      "parcela": "B100",
+      "Nom": "Juan Calafell",
+      "Mujades": 11,
+      "Mundines": 13,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 101,
+      "parcela": "B101",
+      "Nom": "Ramón Roig",
+      "Mujades": 1,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 102,
+      "parcela": "B102",
+      "Nom": "",
+      "Mujades": 2,
+      "Mundines": 5,
+      "propietats": 0,
+      "notes": "Ramón Roig"
+    },
+    {
+      "Dist": "B",
+      "#": 103,
+      "parcela": "B103",
+      "Nom": "Francisco Boladó",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 104,
+      "parcela": "B104",
+      "Nom": "Antonio Alcover",
+      "Mujades": 3,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 105,
+      "parcela": "B105",
+      "Nom": "Pedro Samsó y Calvet",
+      "Mujades": 1,
+      "Mundines": 4,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 106,
+      "parcela": "B106",
+      "Nom": "Domingo March",
+      "Mujades": 1,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 107,
+      "parcela": "B107",
+      "Nom": "José Cristià y Jordi",
+      "Mujades": 8,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 108,
+      "parcela": "B108",
+      "Nom": "Miguel Hortal",
+      "Mujades": 4,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 109,
+      "parcela": "B109",
+      "Nom": "Antonio Viñals",
+      "Mujades": 3,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "B",
+      "#": 110,
+      "parcela": "B110",
+      "Nom": "Maria Morera y Cuyás",
+      "Mujades": 6,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 1,
+      "parcela": "C1",
+      "Nom": "Mariano Borrell",
+      "Mujades": 23,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 2,
+      "parcela": "C2",
+      "Nom": "Juan Solá",
+      "Mujades": 6,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 3,
+      "parcela": "C3",
+      "Nom": "Ricardo Ventosa",
+      "Mujades": 7,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 4,
+      "parcela": "C4",
+      "Nom": "Viuda de Antonio Moras",
+      "Mujades": 4,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 5,
+      "parcela": "C5",
+      "Nom": "José Bonafont",
+      "Mujades": 3,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 6,
+      "parcela": "C6",
+      "Nom": "Pedro Samsó y Calvet",
+      "Mujades": 1,
+      "Mundines": 7,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 7,
+      "parcela": "C7",
+      "Nom": "Pedro Casas",
+      "Mujades": 0,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 8,
+      "parcela": "C8",
+      "Nom": "José Maria Nogués",
+      "Mujades": 0,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 9,
+      "parcela": "C9",
+      "Nom": "Francisco Rius",
+      "Mujades": 1,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 10,
+      "parcela": "C10",
+      "Nom": "Francisco Genè",
+      "Mujades": 1,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 11,
+      "parcela": "C11",
+      "Nom": "Amlia Mainon",
+      "Mujades": 3,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 12,
+      "parcela": "C12",
+      "Nom": "José Matamala",
+      "Mujades": 0,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 13,
+      "parcela": "C13",
+      "Nom": "Tomás Padró",
+      "Mujades": 0,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 14,
+      "parcela": "C14",
+      "Nom": "José Bruguera",
+      "Mujades": 2,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 15,
+      "parcela": "C15",
+      "Nom": "José Vuriach",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 16,
+      "parcela": "C16",
+      "Nom": "Gaspar Puiguiñol",
+      "Mujades": 0,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 17,
+      "parcela": "C17",
+      "Nom": "Antonio Feliu",
+      "Mujades": 0,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 18,
+      "parcela": "C18",
+      "Nom": "Viuda de Pablo Gomis",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 19,
+      "parcela": "C19",
+      "Nom": "Antonio Folch",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 20,
+      "parcela": "C20",
+      "Nom": "Gaspar Coll",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 21,
+      "parcela": "C21",
+      "Nom": "José Xuriach",
+      "Mujades": 2,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 22,
+      "parcela": "C22",
+      "Nom": "Baronesa de la Barra",
+      "Mujades": 46,
+      "Mundines": 0,
+      "propietats": 3,
+      "notes": "de la Barre"
+    },
+    {
+      "Dist": "C",
+      "#": 23,
+      "parcela": "C23",
+      "Nom": "Pablo Sala",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 24,
+      "parcela": "C24",
+      "Nom": "José Baneñs",
+      "Mujades": 2,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 25,
+      "parcela": "C25",
+      "Nom": "Pablo Sala",
+      "Mujades": 2,
+      "Mundines": 3,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 26,
+      "parcela": "C26",
+      "Nom": "Ramon Casas",
+      "Mujades": 1,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 27,
+      "parcela": "C27",
+      "Nom": "Juan Viñals",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 28,
+      "parcela": "C28",
+      "Nom": "Carlos Marti",
+      "Mujades": 2,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 29,
+      "parcela": "C29",
+      "Nom": "Gabrial Amat",
+      "Mujades": 2,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 30,
+      "parcela": "C30",
+      "Nom": "Cayetano Solé",
+      "Mujades": 2,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 31,
+      "parcela": "C31",
+      "Nom": "Antonio Gualva",
+      "Mujades": 5,
+      "Mundines": 11,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 32,
+      "parcela": "C32",
+      "Nom": "Francisco de Asís Amat",
+      "Mujades": 4,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 33,
+      "parcela": "C33",
+      "Nom": "Francisco Galbany",
+      "Mujades": 2,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 34,
+      "parcela": "C34",
+      "Nom": "Ramon Simó",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 35,
+      "parcela": "C35",
+      "Nom": "Felipe Viñals",
+      "Mujades": 1,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 36,
+      "parcela": "C36",
+      "Nom": "Joaquin Viñals",
+      "Mujades": 3,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 37,
+      "parcela": "C37",
+      "Nom": "Juan Sabadell y Oliva",
+      "Mujades": 3,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 38,
+      "parcela": "C38",
+      "Nom": "Juan Torelló",
+      "Mujades": 7,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 39,
+      "parcela": "C39",
+      "Nom": "Juan Casañas",
+      "Mujades": 2,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 40,
+      "parcela": "C40",
+      "Nom": "Viuda de Gaspar Mestras",
+      "Mujades": 4,
+      "Mundines": 12,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 41,
+      "parcela": "C41",
+      "Nom": "Armengol Burunat",
+      "Mujades": 3,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 42,
+      "parcela": "C42",
+      "Nom": "Antonio Gualva",
+      "Mujades": 40,
+      "Mundines": 4,
+      "propietats": 6,
+      "notes": "Gualba"
+    },
+    {
+      "Dist": "C",
+      "#": 43,
+      "parcela": "C43",
+      "Nom": "Antonio Gualva",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 44,
+      "parcela": "C44",
+      "Nom": "Antonio Gualva",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 45,
+      "parcela": "C45",
+      "Nom": "Pedro Sabater",
+      "Mujades": 3,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 46,
+      "parcela": "C46",
+      "Nom": "Pedro Viñals",
+      "Mujades": 3,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 47,
+      "parcela": "C47",
+      "Nom": "Pedro Viñals",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 48,
+      "parcela": "C48",
+      "Nom": "Miguel Torelló",
+      "Mujades": 1,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 49,
+      "parcela": "C49",
+      "Nom": "Viuda de Juan Faras",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": "Cognom ?"
+    },
+    {
+      "Dist": "C",
+      "#": 50,
+      "parcela": "C50",
+      "Nom": "José Lluis",
+      "Mujades": 2,
+      "Mundines": 14,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 51,
+      "parcela": "C51",
+      "Nom": "Pablo Girbau",
+      "Mujades": 3,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 52,
+      "parcela": "C52",
+      "Nom": "Viuda de Gaspar Mestras",
+      "Mujades": 1,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 53,
+      "parcela": "C53",
+      "Nom": "Francisco Palau",
+      "Mujades": 9,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 54,
+      "parcela": "C54",
+      "Nom": "Hospital de la Santa Cruz",
+      "Mujades": 11,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 55,
+      "parcela": "C55",
+      "Nom": "Antonio Jorda",
+      "Mujades": 20,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 56,
+      "parcela": "C56",
+      "Nom": "Viuda de Pablo Gomis",
+      "Mujades": 0,
+      "Mundines": 14,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 57,
+      "parcela": "C57",
+      "Nom": "Viuda de Pablo Gomis",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 58,
+      "parcela": "C58",
+      "Nom": "",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 0,
+      "notes": "Viuda de Pablo Gomis ?"
+    },
+    {
+      "Dist": "C",
+      "#": 59,
+      "parcela": "C59",
+      "Nom": "Pascual Feresa",
+      "Mujades": 0,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 60,
+      "parcela": "C60",
+      "Nom": "Manuel Comellas",
+      "Mujades": 0,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 61,
+      "parcela": "C61",
+      "Nom": "Viuda de Pablo Gomis",
+      "Mujades": 7,
+      "Mundines": 13,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "C",
+      "#": 62,
+      "parcela": "C62",
+      "Nom": "Pedro Gil",
+      "Mujades": 12,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 1,
+      "parcela": "D1",
+      "Nom": "Baronesa de la Barra",
+      "Mujades": 9,
+      "Mundines": 1,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 2,
+      "parcela": "D2",
+      "Nom": "Antonio Amat",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 3,
+      "parcela": "D3",
+      "Nom": "Miguel Pla",
+      "Mujades": 3,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 4,
+      "parcela": "D4",
+      "Nom": "Baronesa de la Barra",
+      "Mujades": 2,
+      "Mundines": 13,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 5,
+      "parcela": "D5",
+      "Nom": "Felix Viñals",
+      "Mujades": 1,
+      "Mundines": 11,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 6,
+      "parcela": "D6",
+      "Nom": "Viuda de Pablo Gomis",
+      "Mujades": 12,
+      "Mundines": 12,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 7,
+      "parcela": "D7",
+      "Nom": "Constantino Gibert",
+      "Mujades": 16,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 8,
+      "parcela": "D8",
+      "Nom": "José Maria Torrescasana",
+      "Mujades": 12,
+      "Mundines": 0,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 9,
+      "parcela": "D9",
+      "Nom": "José Maria Gurina",
+      "Mujades": 16,
+      "Mundines": 0,
+      "propietats": 5,
+      "notes": "Gurine"
+    },
+    {
+      "Dist": "D",
+      "#": 10,
+      "parcela": "D10",
+      "Nom": "Antonio Gualva",
+      "Mujades": 4,
+      "Mundines": 8,
+      "propietats": 6,
+      "notes": "Gualba"
+    },
+    {
+      "Dist": "D",
+      "#": 11,
+      "parcela": "D11",
+      "Nom": "José Maria Torrescasana",
+      "Mujades": 31,
+      "Mundines": 9,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 12,
+      "parcela": "D12",
+      "Nom": "Joaquin Roque",
+      "Mujades": 9,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 13,
+      "parcela": "D13",
+      "Nom": "Antonio Gualva",
+      "Mujades": 5,
+      "Mundines": 5,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 14,
+      "parcela": "D14",
+      "Nom": "Francisco de Asís Magrans",
+      "Mujades": 2,
+      "Mundines": 3,
+      "propietats": 2,
+      "notes": "Magrana ?"
+    },
+    {
+      "Dist": "D",
+      "#": 15,
+      "parcela": "D15",
+      "Nom": "José Maria Torrescasana",
+      "Mujades": 5,
+      "Mundines": 8,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 16,
+      "parcela": "D16",
+      "Nom": "José Lluis",
+      "Mujades": 1,
+      "Mundines": 9,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 17,
+      "parcela": "D17",
+      "Nom": "José Duran",
+      "Mujades": 5,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": "y Marí?"
+    },
+    {
+      "Dist": "D",
+      "#": 18,
+      "parcela": "D18",
+      "Nom": "Miguel Samsó",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 19,
+      "parcela": "D19",
+      "Nom": "Manuel Figuerola",
+      "Mujades": 24,
+      "Mundines": 1,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 20,
+      "parcela": "D20",
+      "Nom": "José Bonet",
+      "Mujades": 1,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 21,
+      "parcela": "D21",
+      "Nom": "José Gurdiet",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 22,
+      "parcela": "D22",
+      "Nom": "Juan Magrans",
+      "Mujades": 2,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 23,
+      "parcela": "D23",
+      "Nom": "José Morros",
+      "Mujades": 3,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 24,
+      "parcela": "D24",
+      "Nom": "Antonio Esteva",
+      "Mujades": 1,
+      "Mundines": 15,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 25,
+      "parcela": "D25",
+      "Nom": "José Lluis",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 26,
+      "parcela": "D26",
+      "Nom": "Genis Guasachs",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 27,
+      "parcela": "D27",
+      "Nom": "Pedro Brassó",
+      "Mujades": 3,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 28,
+      "parcela": "D28",
+      "Nom": "José Maria Torrescasana",
+      "Mujades": 33,
+      "Mundines": 10,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 29,
+      "parcela": "D29",
+      "Nom": "José Maria Torrescasana",
+      "Mujades": 0,
+      "Mundines": 0,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 30,
+      "parcela": "D30",
+      "Nom": "Jayme Artés",
+      "Mujades": 1,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 31,
+      "parcela": "D31",
+      "Nom": "",
+      "Mujades": 0,
+      "Mundines": 4,
+      "propietats": 0,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 32,
+      "parcela": "D32",
+      "Nom": "José Oliver",
+      "Mujades": 1,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 33,
+      "parcela": "D33",
+      "Nom": "Ermenegilda Mariné",
+      "Mujades": 3,
+      "Mundines": 13,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 34,
+      "parcela": "D34",
+      "Nom": "José Cosas",
+      "Mujades": 2,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 35,
+      "parcela": "D35",
+      "Nom": "José Maria Gurina",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 36,
+      "parcela": "D36",
+      "Nom": "José Maria Torrescasana",
+      "Mujades": 10,
+      "Mundines": 13,
+      "propietats": 6,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 37,
+      "parcela": "D37",
+      "Nom": "Ermenegilda Mariné",
+      "Mujades": 5,
+      "Mundines": 3,
+      "propietats": 2,
+      "notes": "Ermenegildo"
+    },
+    {
+      "Dist": "D",
+      "#": 38,
+      "parcela": "D38",
+      "Nom": "José Maria Gurina",
+      "Mujades": 5,
+      "Mundines": 10,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 39,
+      "parcela": "D39",
+      "Nom": "Maria Pallòs",
+      "Mujades": 33,
+      "Mundines": 5,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 40,
+      "parcela": "D40",
+      "Nom": "Pedro Agosto",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 41,
+      "parcela": "D41",
+      "Nom": "Herederos de Ramon Carbonell",
+      "Mujades": 63,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 42,
+      "parcela": "D42",
+      "Nom": "Amortización",
+      "Mujades": 0,
+      "Mundines": 15,
+      "propietats": 2,
+      "notes": " = 0 ??????"
+    },
+    {
+      "Dist": "D",
+      "#": 43,
+      "parcela": "D43",
+      "Nom": "Viuda de Joaquin Maria Codulà",
+      "Mujades": 0,
+      "Mundines": 5,
+      "propietats": 4,
+      "notes": " = 0 ??????"
+    },
+    {
+      "Dist": "D",
+      "#": 44,
+      "parcela": "D44",
+      "Nom": "Amortización",
+      "Mujades": 10,
+      "Mundines": 14,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 45,
+      "parcela": "D45",
+      "Nom": "José Maria Gurina",
+      "Mujades": 6,
+      "Mundines": 12,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 46,
+      "parcela": "D46",
+      "Nom": "Viuda de Joaquin Maria Codulà",
+      "Mujades": 5,
+      "Mundines": 13,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 47,
+      "parcela": "D47",
+      "Nom": "Pedro Sabadell",
+      "Mujades": 1,
+      "Mundines": 9,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 48,
+      "parcela": "D48",
+      "Nom": "Manuel Figuerola",
+      "Mujades": 7,
+      "Mundines": 1,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 49,
+      "parcela": "D49",
+      "Nom": "Pablo Bertran",
+      "Mujades": 3,
+      "Mundines": 9,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 50,
+      "parcela": "D50",
+      "Nom": "Narciso Simó",
+      "Mujades": 2,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 51,
+      "parcela": "D51",
+      "Nom": "Pablo Bertran",
+      "Mujades": 5,
+      "Mundines": 3,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 52,
+      "parcela": "D52",
+      "Nom": "Joaquin Maria Codulá",
+      "Mujades": 2,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": "51a",
+      "parcela": "D51a",
+      "Nom": "Francisco de Asís Magrans",
+      "Mujades": 1,
+      "Mundines": 8,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 53,
+      "parcela": "D53",
+      "Nom": "Jayme Gausachs y Simó",
+      "Mujades": 1,
+      "Mundines": 0,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 54,
+      "parcela": "D54",
+      "Nom": "Viuda de Joaquin Maria Codulà",
+      "Mujades": 12,
+      "Mundines": 15,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 55,
+      "parcela": "D55",
+      "Nom": "Viuda de Antonio Sala Ribó",
+      "Mujades": 1,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 56,
+      "parcela": "D56",
+      "Nom": "José Lluis",
+      "Mujades": 3,
+      "Mundines": 0,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "D",
+      "#": 57,
+      "parcela": "D57",
+      "Nom": "Francisco Giol i Oliva",
+      "Mujades": 2,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 1,
+      "parcela": "E1",
+      "Nom": "Baron de Prado Hermoso",
+      "Mujades": 3,
+      "Mundines": 14,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 2,
+      "parcela": "E2",
+      "Nom": "Pablo Bertran",
+      "Mujades": 12,
+      "Mundines": 11,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 3,
+      "parcela": "E3",
+      "Nom": "Francisco Barret",
+      "Mujades": 14,
+      "Mundines": 5,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 4,
+      "parcela": "E4",
+      "Nom": "Baltasar Campmany",
+      "Mujades": 0,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 5,
+      "parcela": "E5",
+      "Nom": "Francisco Barret",
+      "Mujades": 8,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 6,
+      "parcela": "E6",
+      "Nom": "Viuda de José Ros",
+      "Mujades": 1,
+      "Mundines": 14,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 7,
+      "parcela": "E7",
+      "Nom": "Baron de Prado Hermoso",
+      "Mujades": 29,
+      "Mundines": 6,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 8,
+      "parcela": "E8",
+      "Nom": "José Ravellat",
+      "Mujades": 2,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 9,
+      "parcela": "E9",
+      "Nom": "Antonio Farré",
+      "Mujades": 1,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 10,
+      "parcela": "E10",
+      "Nom": "Viuda de Felix Elias",
+      "Mujades": 2,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 11,
+      "parcela": "E11",
+      "Nom": "Viuda de Francisco Mari",
+      "Mujades": 2,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 12,
+      "parcela": "E12",
+      "Nom": "Baron de Prado Hermoso",
+      "Mujades": 13,
+      "Mundines": 0,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 13,
+      "parcela": "E13",
+      "Nom": "Fernando Moragas",
+      "Mujades": 0,
+      "Mundines": 8,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 14,
+      "parcela": "E14",
+      "Nom": "Marqués de Alfarrás",
+      "Mujades": 59,
+      "Mundines": 8,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 15,
+      "parcela": "E15",
+      "Nom": "Francisco Rocapruna",
+      "Mujades": 17,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 16,
+      "parcela": "E16",
+      "Nom": "Jayme Roque",
+      "Mujades": 3,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 17,
+      "parcela": "E17",
+      "Nom": "José Cascante",
+      "Mujades": 1,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 18,
+      "parcela": "E18",
+      "Nom": "Francisco Llonch",
+      "Mujades": 2,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 19,
+      "parcela": "E19",
+      "Nom": "Pablo Bertran",
+      "Mujades": 3,
+      "Mundines": 13,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 20,
+      "parcela": "E20",
+      "Nom": "Fernando Moragas",
+      "Mujades": 11,
+      "Mundines": 6,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 21,
+      "parcela": "E21",
+      "Nom": "José Maria Gurina",
+      "Mujades": 13,
+      "Mundines": 12,
+      "propietats": 5,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 22,
+      "parcela": "E22",
+      "Nom": "Luis Gurina",
+      "Mujades": 11,
+      "Mundines": 15,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 23,
+      "parcela": "E23",
+      "Nom": "Viuda de Joaquin Maria Codulà",
+      "Mujades": 36,
+      "Mundines": 6,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 24,
+      "parcela": "E24",
+      "Nom": "Olegario Ribó",
+      "Mujades": 1,
+      "Mundines": 1,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 25,
+      "parcela": "E25",
+      "Nom": "Ysidro Bordas",
+      "Mujades": 3,
+      "Mundines": 4,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 26,
+      "parcela": "E26",
+      "Nom": "Olegario Ribó",
+      "Mujades": 0,
+      "Mundines": 6,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 27,
+      "parcela": "E27",
+      "Nom": "Viuda de Jaime Gallani",
+      "Mujades": 3,
+      "Mundines": 2,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 28,
+      "parcela": "E28",
+      "Nom": "Fernando Moragas",
+      "Mujades": 2,
+      "Mundines": 4,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 29,
+      "parcela": "E29",
+      "Nom": "José Serra",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 30,
+      "parcela": "E30",
+      "Nom": "Tomás Bonany",
+      "Mujades": 1,
+      "Mundines": 9,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 31,
+      "parcela": "E31",
+      "Nom": "Francisco Campmany",
+      "Mujades": 1,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 32,
+      "parcela": "E32",
+      "Nom": "José Miró",
+      "Mujades": 1,
+      "Mundines": 3,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 33,
+      "parcela": "E33",
+      "Nom": "Onofre Brosa",
+      "Mujades": 1,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 34,
+      "parcela": "E34",
+      "Nom": "José Soldevila",
+      "Mujades": 1,
+      "Mundines": 10,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 36,
+      "parcela": "E36",
+      "Nom": "Fernando Moragas",
+      "Mujades": 12,
+      "Mundines": 5,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 35,
+      "parcela": "E35",
+      "Nom": "Juan Marti",
+      "Mujades": 3,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 37,
+      "parcela": "E37",
+      "Nom": "Juan Sabadell",
+      "Mujades": 1,
+      "Mundines": 6,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 38,
+      "parcela": "E38",
+      "Nom": "José Comellas",
+      "Mujades": 1,
+      "Mundines": 8,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 39,
+      "parcela": "E39",
+      "Nom": "Juan Sabadell",
+      "Mujades": 0,
+      "Mundines": 11,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 40,
+      "parcela": "E40",
+      "Nom": "José Carcolsa",
+      "Mujades": 1,
+      "Mundines": 1,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 41,
+      "parcela": "E41",
+      "Nom": "Baron Payarol",
+      "Mujades": 2,
+      "Mundines": 6,
+      "propietats": 1,
+      "notes": "Baron Payarol ?????"
+    },
+    {
+      "Dist": "E",
+      "#": 42,
+      "parcela": "E42",
+      "Nom": "Viuda de Andrés Castella",
+      "Mujades": 1,
+      "Mundines": 13,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 43,
+      "parcela": "E43",
+      "Nom": "Ysidro Fiol",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 44,
+      "parcela": "E44",
+      "Nom": "José Mariné",
+      "Mujades": 1,
+      "Mundines": 5,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 45,
+      "parcela": "E45",
+      "Nom": "Jayme Artés",
+      "Mujades": 1,
+      "Mundines": 2,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 46,
+      "parcela": "E46",
+      "Nom": "Ysidro Magrans",
+      "Mujades": 1,
+      "Mundines": 4,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 47,
+      "parcela": "E47",
+      "Nom": "Eudaldo Parramon",
+      "Mujades": 2,
+      "Mundines": 0,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 48,
+      "parcela": "E48",
+      "Nom": "Gaspar Llong",
+      "Mujades": 1,
+      "Mundines": 7,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 49,
+      "parcela": "E49",
+      "Nom": "Domingo Vila",
+      "Mujades": 1,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 50,
+      "parcela": "E50",
+      "Nom": "Maria Pallòs",
+      "Mujades": 2,
+      "Mundines": 11,
+      "propietats": 3,
+      "notes": "Pallòs?"
+    },
+    {
+      "Dist": "E",
+      "#": 51,
+      "parcela": "E51",
+      "Nom": "Marqués de Alfarrás",
+      "Mujades": 15,
+      "Mundines": 11,
+      "propietats": 3,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 52,
+      "parcela": "E52",
+      "Nom": "Jayme Vallhonesta",
+      "Mujades": 23,
+      "Mundines": 4,
+      "propietats": 4,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 53,
+      "parcela": "E53",
+      "Nom": "Juan Saladrigas",
+      "Mujades": 3,
+      "Mundines": 3,
+      "propietats": 2,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 54,
+      "parcela": "E54",
+      "Nom": "Felix Baulessas",
+      "Mujades": 3,
+      "Mundines": 12,
+      "propietats": 1,
+      "notes": ""
+    },
+    {
+      "Dist": "E",
+      "#": 55,
+      "parcela": "E55",
+      "Nom": "Maria Pallòs",
+      "Mujades": 20,
+      "Mundines": 5,
+      "propietats": 3,
+      "notes": ""
+    }
+  ]
